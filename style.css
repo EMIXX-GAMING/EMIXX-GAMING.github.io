@@ -1,0 +1,56 @@
+ @font-face {
+    font-family: "font-1";
+    src: url(./assets/Roboto-Italic.ttf)
+ }
+
+
+ body {
+    font-family: "font-1", sans-serif;
+    background: url(./assets/Fond\ neon.jpg) fixed left/cover
+ }
+
+ h1 {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    text-shadow: 3px 3px 0px rgba(132, 131, 131, 0.493);
+    color: white ;
+ }
+
+ * {
+    color: white;
+ }
+
+ h2 {
+    text-transform: uppercase;
+    border-bottom: 1px rgb(255, 255, 255) solid;
+    color: white;
+ }
+
+ .presentation {
+    background-color: rgb(40, 37, 37);
+    min-height: 80px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 0px red;
+
+ }
+
+ .reseaux {
+    background : rgb(40, 37, 37);
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 0px red;
+
+}
+ 
+
+ .dernierevid {
+    background : rgb(40, 37, 37);
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 0px red;
+ }
+ 
